@@ -12,7 +12,7 @@ title                    : "Nicholas Mellon"
 title_separator          : "-"
 name                     : &name "Nicholas Mellon"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://nbmellon.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/nbmellon"
 
@@ -21,7 +21,7 @@ repository               : "https://github.com/nbmellon"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "edited_81_2.jpg"
+  avatar           : "edited_81_2-min.jpg"
   name             : "Nicholas Mellon"
   pronouns         : # example: "she/her"  
   bio              : "MS CS Student @ UMich"
